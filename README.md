@@ -2,7 +2,11 @@
 
 I’m a Research Associate and PhD Student in the [Semantic Computing group](https://www.semantic-computing.de/) (since July 2025), currently working on the **LLM4KMU** project — developing Smaller Language Models (SLMs) tailored for Small and Medium Enterprises.
 
-If you find common research interests, I am always happy to collaborate! 😊 Please feel free to connect with me at viju.sudhi@uni-bielefeld.de.
+If you find common research interests, I am always happy to collaborate! 😊 
+
+✉️ Please feel free to connect with me at viju.sudhi@uni-bielefeld.de.
+
+🏠 [Homepage - Uni Bielefeld](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/viju-sudhi/) 
 
 🏠 [Homepage](https://vijusudhi.github.io/) | 👨‍💻 [GitHub](https://github.com/vijusudhi) | ✨ [LinkedIn](https://www.linkedin.com/in/viju-sudhi) | 🏢 [Google Scholar](https://scholar.google.com/citations?user=JNymskMAAAAJ&hl=en) | ⚖️ [ORCID](http://orcid.org/0009-0009-0325-7526) 
 
