@@ -4,12 +4,7 @@ I’m a Research Associate and PhD Student in the [Semantic Computing group](htt
 
 If you find common research interests, I am always happy to collaborate! 😊 Please feel free to connect with me at viju.sudhi@uni-bielefeld.de.
 
-- 🎓 **Education**  
-  - B. Tech. in Electronics & Communication, University of Kerala, India  
-  - M. Sc. in Digital Engineering, Otto-von-Guericke University, Magdeburg, Germany
-
-- 💼 **Experience**
-  - Research Engineer, Fraunhofer IAIS, Dresden  
+🏠 [Homepage](https://vijusudhi.github.io/) | 👨‍💻 [GitHub](https://github.com/vijusudhi) | ✨ [LinkedIn](https://www.linkedin.com/in/viju-sudhi) | 🏢 [Google Scholar](https://scholar.google.com/citations?user=JNymskMAAAAJ&hl=en) | ⚖️ [ORCID](http://orcid.org/0009-0009-0325-7526) 
 
 ---
 
