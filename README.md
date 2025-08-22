@@ -8,7 +8,7 @@ If you find common research interests, I am always happy to collaborate! 😊
 
 🏠 [Homepage - Uni Bielefeld](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/viju-sudhi/) 
 
-🏠 [Homepage](https://vijusudhi.github.io/) | 👨‍💻 [GitHub](https://github.com/vijusudhi) | ✨ [LinkedIn](https://www.linkedin.com/in/viju-sudhi) | 🏢 [Google Scholar](https://scholar.google.com/citations?user=JNymskMAAAAJ&hl=en) | ⚖️ [ORCID](http://orcid.org/0009-0009-0325-7526) 
+🛖 [Homepage](https://vijusudhi.github.io/) | 👨‍💻 [GitHub](https://github.com/vijusudhi) | 🕸️ [LinkedIn](https://www.linkedin.com/in/viju-sudhi) | 🏢 [Google Scholar](https://scholar.google.com/citations?user=JNymskMAAAAJ&hl=en) | ✨ [ORCID](http://orcid.org/0009-0009-0325-7526) 
 
 ---
 
